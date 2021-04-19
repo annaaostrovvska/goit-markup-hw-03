@@ -303,6 +303,7 @@ header{
 .section-img-title{
     display: flex;
     flex-wrap: wrap;
+    margin: -15px;
     
 }
 
