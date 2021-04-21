@@ -155,6 +155,10 @@ header{
     
 
 }
+.button:hover,.button:focus{
+    background-color: #EEEEEE;
+    color: black;
+}
 .section-info{
     padding: 94px 0px 94px 0px;
 
