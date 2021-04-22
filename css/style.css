@@ -32,13 +32,11 @@ body {
 
 .container{
     width: 1200px;
-    padding-left: 15px;
-    padding-right: 15px;
     margin:0px auto;
 }
 
 :root{
-    --title-color: #212121;
+    --title-color: #212121; 
     --link-hover: #2196F3;
     --p-color: #757575;
     --address-tit-color: #FFFFFF;
@@ -137,6 +135,8 @@ header{
 }
 .fon{
     background: #2F303A;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .button{
     width: 200px;
@@ -221,6 +221,8 @@ header{
 }
 .fon-team{
     background: #F5F4FA;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 .name{
     font-weight: 500;
@@ -275,8 +277,12 @@ header{
 
 
 .fon-address-pictures{
-    background: FFFFFF, 
+    background: FFFFFF;
+    padding-left: 15px;
+    padding-right: 15px;
+    
 }
+
 .section-cont{
     display: block;
     margin-top: 9px;
