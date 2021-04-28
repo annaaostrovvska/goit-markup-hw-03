@@ -147,7 +147,6 @@ header{
 }
 
 .fon-foto{
-    max-width: 1600px;
     height: 600px;
     margin-right: auto;
     margin-left: auto;
@@ -328,14 +327,12 @@ header{
 
 .fon-address-pictures{
     background: FFFFFF;
-    width: 1200px;
     margin:0px auto;
     padding: 94px 0px 94px 0px;
     
 }
 .img-pictures{
     background: FFFFFF;
-    width: 1200px;
     margin:0px auto;
     padding: 0px 0px 94px 0px;
 }
